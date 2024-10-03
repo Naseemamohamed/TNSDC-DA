@@ -1,0 +1,325 @@
+﻿Row Labels,Sum of EmpID,Sum of Current Employee Rating
+Accountant I,48456,97
+Jan,2752,6
+Feb,2658,6
+Mar,4057,9
+Apr,3966,5
+May,5344,7
+Jun,5338,10
+Jul,4052,9
+Aug,6707,15
+Sep,5411,12
+Oct,1386,3
+Nov,6785,15
+Administrative Assistant,73406,96
+Jan,5431,5
+Feb,2684,5
+Mar,13226,20
+Apr,2701,5
+May,5471,8
+Jun,1355,3
+Jul,5354,10
+Aug,10534,12
+Sep,2600,2
+Oct,5413,7
+Nov,11949,9
+Dec,6688,10
+Area Sales Manager,878629,867
+Jan,69497,85
+Feb,69895,76
+Mar,72700,64
+Apr,93468,80
+May,51068,54
+Jun,71136,63
+Jul,77215,71
+Aug,83614,87
+Sep,72260,73
+Oct,71737,70
+Nov,72997,71
+Dec,73042,73
+BI Developer,87306,131
+Jan,8390,13
+Feb,2518,4
+Mar,6708,6
+Apr,6684,12
+May,8416,15
+Jun,4972,9
+Jul,5972,8
+Aug,4194,7
+Sep,15217,23
+Oct,6675,8
+Nov,13337,21
+Dec,4223,5
+BI Director,22440,33
+Mar,9832,11
+May,1650,3
+Aug,1673,3
+Sep,1695,3
+Oct,1705,3
+Nov,3401,6
+Dec,2484,4
+CIO,23721,32
+Mar,3321,6
+Apr,1694,3
+May,1724,3
+Jun,2284,2
+Jul,1684,3
+Aug,5620,6
+Oct,1715,3
+Nov,5679,6
+Data Analyst,135300,125
+Jan,4781,7
+Feb,7916,6
+Mar,6307,4
+Apr,11194,12
+May,8678,9
+Jun,8676,7
+Jul,17464,17
+Aug,11031,7
+Sep,17489,16
+Oct,9499,10
+Nov,13369,14
+Dec,18896,16
+Data Analyst ,20539,25
+Feb,2409,4
+Apr,4701,6
+Jun,4760,8
+Jul,3943,3
+Sep,2353,2
+Nov,2373,2
+Data Architect,17546,15
+Feb,3987,3
+Sep,1626,3
+Oct,4000,3
+Nov,3959,3
+Dec,3974,3
+Database Administrator,99271,75
+Jan,15882,12
+Feb,7939,6
+Mar,3986,3
+Apr,11897,9
+Jun,7929,6
+Jul,15914,12
+Aug,7938,6
+Sep,11927,9
+Oct,7924,6
+Nov,3937,3
+Dec,3998,3
+Director of Operations,27165,38
+Jan,2442,1
+Feb,2516,5
+Jun,7409,12
+Jul,4788,8
+Sep,5015,6
+Dec,4995,6
+Director of Sales,27498,26
+Jan,2477,2
+Jun,2524,1
+Jul,7541,10
+Aug,2535,2
+Sep,5011,6
+Oct,2564,1
+Nov,2290,2
+Dec,2556,2
+Enterprise Architect,19326,15
+Jul,3936,3
+Aug,7695,6
+Sep,3831,3
+Dec,3864,3
+IT Director,27772,27
+Jan,5018,5
+Mar,2495,1
+Apr,2534,1
+May,2488,1
+Jun,2570,4
+Jul,2480,2
+Aug,2555,2
+Nov,5069,9
+Dec,2563,2
+IT Manager - DB,54167,70
+Feb,2218,4
+Mar,4807,9
+Apr,5056,8
+May,9788,9
+Jul,10134,11
+Aug,5066,4
+Oct,7337,10
+Dec,9761,15
+IT Manager - Infra,25539,39
+Feb,4509,10
+Mar,2238,2
+Apr,2258,2
+Jun,2560,4
+Oct,2224,4
+Nov,4700,6
+Dec,7050,11
+IT Manager - Support,24946,26
+Jan,6751,6
+Feb,2274,4
+Apr,4526,3
+Jul,2223,2
+Aug,2244,4
+Sep,2482,4
+Nov,4446,3
+IT Support,268956,263
+Jan,24454,21
+Feb,32246,23
+Mar,16714,19
+Apr,30621,37
+May,28205,32
+Jun,8383,7
+Jul,16698,17
+Aug,35572,30
+Sep,23348,29
+Oct,11511,9
+Nov,9937,7
+Dec,31267,32
+Network Engineer,191835,160
+Jan,17747,16
+Feb,14937,15
+Mar,17806,16
+May,21692,17
+Jun,21792,16
+Jul,8546,9
+Aug,23220,18
+Sep,29557,23
+Oct,20076,18
+Nov,6336,4
+Dec,10126,8
+President & CEO,25251,21
+Jan,1316,3
+Apr,2304,2
+Jun,2387,1
+Jul,2441,2
+Aug,4694,3
+Sep,2405,4
+Oct,9704,6
+Principal Data Architect,30992,24
+Mar,7693,6
+Jun,7763,6
+Aug,3830,3
+Sep,3888,3
+Oct,3876,3
+Nov,3942,3
+Production Manager,339209,465
+Jan,23785,29
+Feb,27450,41
+Mar,31252,54
+Apr,36910,50
+May,21480,30
+Jun,18960,19
+Jul,26018,32
+Aug,28700,41
+Sep,19868,32
+Oct,35604,51
+Nov,31135,38
+Dec,38047,48
+Production Technician I,3264978,3936
+Jan,266995,345
+Feb,250640,274
+Mar,275536,359
+Apr,282277,349
+May,265421,300
+Jun,243473,304
+Jul,284520,340
+Aug,272912,309
+Sep,251217,317
+Oct,274700,304
+Nov,301073,371
+Dec,296214,364
+Production Technician II,1281178,1555
+Jan,111888,133
+Feb,111383,138
+Mar,116911,158
+Apr,75857,92
+May,115033,123
+Jun,110421,125
+Jul,120018,143
+Aug,105681,134
+Sep,83011,97
+Oct,116908,138
+Nov,105094,133
+Dec,108973,141
+Sales Manager,52365,90
+Jan,5035,9
+Mar,5559,9
+Apr,4975,9
+May,6959,12
+Jun,3616,6
+Jul,3393,6
+Aug,1951,3
+Sep,3616,6
+Oct,4986,9
+Nov,6937,12
+Dec,5338,9
+Senior BI Developer,44616,90
+Jan,1689,3
+Feb,6138,12
+May,4328,9
+Jun,5390,12
+Jul,4405,9
+Aug,1667,3
+Sep,7805,15
+Oct,5451,12
+Nov,4403,9
+Dec,3340,6
+Shared Services Manager,24877,64
+Jan,1090,3
+Feb,1052,3
+Mar,2086,6
+Apr,1079,3
+May,1034,3
+Aug,2289,4
+Sep,3505,8
+Oct,4412,10
+Nov,3164,9
+Dec,5166,15
+Software Engineer,131594,255
+Jan,10726,18
+Feb,7805,19
+Mar,7841,19
+Apr,17367,31
+May,11370,21
+Jun,4176,12
+Jul,15373,22
+Aug,7293,21
+Sep,12751,19
+Oct,12983,23
+Nov,15775,35
+Dec,8134,15
+Software Engineering Manager,24686,34
+Jan,3979,3
+Mar,2485,4
+Apr,5313,6
+Sep,2566,2
+Oct,3894,7
+Nov,6449,12
+Sr. Accountant,33364,39
+Jan,1383,3
+Mar,1361,3
+Apr,5359,6
+May,1317,3
+Jun,5346,6
+Jul,5353,6
+Aug,7940,6
+Oct,1315,3
+Dec,3990,3
+Sr. DBA,31479,24
+Mar,3962,3
+Jul,11820,9
+Aug,7772,6
+Sep,3949,3
+Oct,3976,3
+Sr. Network Engineer,143093,150
+Jan,23288,24
+Feb,14222,15
+Mar,20876,24
+Apr,10432,12
+May,19433,15
+Jun,7749,6
+Jul,9196,9
+Aug,4044,9
+Sep,7853,12
+Oct,10473,12
+Dec,15527,12
+Grand Total,7501500,8907
